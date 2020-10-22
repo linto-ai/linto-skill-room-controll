@@ -1,7 +1,7 @@
 {
   "name": "@linto-ai/linto-skill-room-control",
-  "version": "0.0.1",
-  "description": "Room skill for a linto demo skill",
+  "version": "0.0.2",
+  "description": "Room demo skill for web linto",
   "author": "yhoupert@linagora.com",
   "license": "AGPL-3.0-or-later",
   "node-red": {
