@@ -12,3 +12,18 @@
 - [passe](next) le diapo
 - diapo [précédant](previous)
 - revient au diapo [précédant](previous)
+
+##intent|room_control_light|en
+- turn the light [on](on)
+- light [on](on)
+- turn the light [off](off)
+- light [off](off)
+##intent|room_control_projector|en
+- [turn on](on) the projector
+- [turn off](on) the projector
+##intent|room_control_shutter|en
+- [open](off) the blinds
+- [close](on) the blinds
+##intent|room_control_slide|en
+- [next](next) slide
+- [previous](previous) slide
